@@ -1,0 +1,7 @@
+dn: cn=Anna Pou,ou=usuaris,dc=edt,dc=org
+changetype: modify
+add: mail
+mail: eeeeeeeeeeeee
+-
+replace: homephone
+homephone: 123123123
